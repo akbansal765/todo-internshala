@@ -1,6 +1,7 @@
 <!-- 
 To run this project use below command:-
 
+npm install
 npm run dev
 
  -->
